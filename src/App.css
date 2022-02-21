@@ -1,38 +1,27 @@
-.App {
-  text-align: center;
+/* Customize your main colors in :root variables */
+:root {
+  --main-background-color: #343A50;
+  --card-background-color: rgba(85, 179, 234, 0.7);
+  --card-background-lighter-color: #7A7F92;
+  --main-text-color:#F7F6F4;
+  --title-text-color:#3CBA8B;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body{
+  background-image: url("http://celepixel.tk/background.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Patrick Hand', cursive;
+  font-size: 1.2em;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+h2, p{
+  color: var(--main-text-color);
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+h3{
+font-weight: normal;
 }
 
-.App-link {
-  color: #61dafb;
-}
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+
