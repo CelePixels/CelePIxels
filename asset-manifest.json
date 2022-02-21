@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/celepixels/static/css/main.441d250d.chunk.css",
+    "main.js": "/celepixels/static/js/main.06673f3e.chunk.js",
+    "main.js.map": "/celepixels/static/js/main.06673f3e.chunk.js.map",
+    "runtime-main.js": "/celepixels/static/js/runtime-main.e6e5455e.js",
+    "runtime-main.js.map": "/celepixels/static/js/runtime-main.e6e5455e.js.map",
+    "static/css/2.e91b11d9.chunk.css": "/celepixels/static/css/2.e91b11d9.chunk.css",
+    "static/js/2.483c9e28.chunk.js": "/celepixels/static/js/2.483c9e28.chunk.js",
+    "static/js/2.483c9e28.chunk.js.map": "/celepixels/static/js/2.483c9e28.chunk.js.map",
+    "static/js/3.0eee2382.chunk.js": "/celepixels/static/js/3.0eee2382.chunk.js",
+    "static/js/3.0eee2382.chunk.js.map": "/celepixels/static/js/3.0eee2382.chunk.js.map",
+    "index.html": "/celepixels/index.html",
+    "static/css/2.e91b11d9.chunk.css.map": "/celepixels/static/css/2.e91b11d9.chunk.css.map",
+    "static/css/main.441d250d.chunk.css.map": "/celepixels/static/css/main.441d250d.chunk.css.map",
+    "static/js/2.483c9e28.chunk.js.LICENSE.txt": "/celepixels/static/js/2.483c9e28.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6e5455e.js",
+    "static/css/2.e91b11d9.chunk.css",
+    "static/js/2.483c9e28.chunk.js",
+    "static/css/main.441d250d.chunk.css",
+    "static/js/main.06673f3e.chunk.js"
+  ]
+}
